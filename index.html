@@ -13,18 +13,18 @@
     <body>
       <main class="container">
         <div class="advice-general">
-          <h2 class="advice-information">Advice <span class="advice-information">#000</span></h2>
-          <p class="advice">"<span>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est laudantium ipsa at natus ipsum, cum sunt optio laborum aliquam voluptates voluptatum, ab, deserunt quae reprehenderit minus nihil expedita ducimus inventore!</span>
-            <span>"</span>
-          </p>
+          <h2 class="advice-information" id="advice-information"></h2>
+          <p class="advice" id="advice"></p>
           <picture class="divisor">
             <source srcset="./src/images/pattern-divider-mobile.svg" alt="Divisor Mobile" media="(max-width: 768px)">
             <img src="./src/images/pattern-divider-desktop.svg" alt="Divisor Desktop">
           </picture>
-          <button class="dice-button">
+          <button class="dice-button" id="dice-button">
             <img src="./src/images/icon-dice.svg" alt="Dice Button">
           </button>
         </div>
       </main>
+
+      <script src="./src/js/index.js"></script>
     </body>
 </html>

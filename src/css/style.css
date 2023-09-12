@@ -19,7 +19,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 460px;
+    max-width: 460px;
     background-color: var(--advice-card-color);
     border-radius: 10px;
     gap: 10px;
@@ -36,6 +36,8 @@ body {
     color: var(--text-color);
     padding: 15px;
     text-align: center;
+    word-wrap: break-word;
+    max-width: 460px;
 }
 
 .divisor {
