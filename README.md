@@ -6,19 +6,20 @@
 
 <div>
     <h3 align="center"><strong>Desktop View</strong><h3>
-    <a href="https://thaleshng.github.io/exercicio-app-gerador-de-conselhos/" target="_blank"><img src="./src/images/Desktop.png" target="_blank"></a> 
+    <a href="https://thaleshng.github.io/exercicio-app-gerador-de-conselhos/" target="_blank"><img src="./src/images/gif-gerador-conselho-desktop.gif" target="_blank"></a> 
 </div>
 
 <div align="center">
     <h3 align="center"><strong>Mobile View</strong><h3>
-    <a href="https://thaleshng.github.io/exercicio-app-gerador-de-conselhos/" target="_blank"><img src="./src/images/Mobile.png" target="_blank"></a> 
+    <a href="https://thaleshng.github.io/exercicio-app-gerador-de-conselhos/" target="_blank"><img src="./src/images/gif-gerador-conselho-mobile.gif" target="_blank"></a> 
 </div>
 
 <div align="center">
     <img height=20em src="https://img.shields.io/badge/-HTML-orange?style=plastic"><img>
     <img height=20em src="https://img.shields.io/badge/-CSS-blue?style=plastic"><img>
+    <img height=20em src="https://img.shields.io/badge/-JS-yellow?style=plastic"><img>
     <br>
-    <img height=20em src="https://img.shields.io/badge/STATUS-🚧 EM ANDAMENTO 🚧-darkgoldenrod?style=plastic"><img>
+    <img height=20em src="https://img.shields.io/badge/STATUS-FINALIZADO-green?style=plastic"><img>
     <br>
     <img src="https://img.shields.io/github/stars/thaleshng/exercicio-app-gerador-de-conselhos?style=social"><img>
 </div>
@@ -46,6 +47,9 @@
 [<img alt="CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">](https://kenzie.com.br/blog/css3/)
 <br>
 <br>
+
+[<img alt="Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">](https://blog.betrybe.com/javascript/)
+<br>
 <br>
 <br>
 
@@ -53,8 +57,8 @@
 <br>
 
 <p> O projeto em questão tem como finalidade testar os aprendizados dos módulos de HTML e CSS do curso de developer.</p> 
-<p>Foi tomado como base um desafio do Frontend Mentor que gerava um conselho ao clicar no botão, porém, foi dividido em 2 partes sendo a primeira somente essa que contempla HTML e CSS.</p>
-<br>
+<p>Foi tomado como base um desafio do Frontend Mentor que gerava um conselho ao clicar no botão, porém, foi dividido em 2 partes sendo a primeira contemplando somente HTML e CSS.</p>
+<p>A segunda parte posteriormente, será adicionada a parte de JavaScript do desafio em questão.</p>
 <br>
 <br>
 <br>
@@ -63,8 +67,8 @@
 <br>
 
 <p> No geral eu consegui atingir os objetivos que se pediam no exercício, contudo, tive bem menos dificuldade após a conclusão do 1° exercício, observei melhoras na prática do Clean Code e no alinhamento do conteúdo no centro da página.</p>
+<p>Quanto à parte de JavaScript também não encontrei maiores dificuldades. Durante o desenvolvimento do projeto pude aplicar os conhecimentos que aprendi nos módulos de JavaScript do curso DevQuest, como consumo de API's; funções assíncronas; entre outros.</p>
 <p> Após o projeto finalizado, comparei o meu código ao código da resolução e destaquei os pontos onde podiam ser melhorados, para que os erros não voltem a acontecer nos próximos exercícios.
-<br>
 <br>
 <br>
 <br>
